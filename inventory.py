@@ -1,5 +1,5 @@
 import csv
-#apalahhh
+#apalahhhh
 def read_monster_names(filename):   #Membaca data nama monster berdasarkan id monster
     monster_names = {}
     with open(filename, 'r') as file:
